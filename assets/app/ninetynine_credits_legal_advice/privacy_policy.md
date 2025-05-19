@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last Updated: April 2, 2025
+**Effective Date: April 2, 2025**
 
 ## Introduction
 
@@ -47,10 +47,10 @@ Under certain circumstances, you have rights under data protection laws in relat
 
 ## Changes to This Privacy Policy
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last Updated" date at the top of this Privacy Policy.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Effective Date" at the top of this Privacy Policy.
 
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-**thelegalmind@tutanota.com**
+**kumar.ujjawal247@gmail.com**
