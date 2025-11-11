@@ -2,11 +2,11 @@
 
 **Effective Date: April 21, 2025**
 
-This Privacy Policy describes how WA Quick Connect ("we", "our", or "us") collects, uses, and shares your information when you use our mobile application.
+This Privacy Policy describes how Direct Quick Connect ("we", "our", or "us") collects, uses, and shares your information when you use our mobile application.
 
 ## 1. Information We Collect
 
-WA Quick Connect is designed with privacy in mind. We collect minimal information necessary to provide our services:
+Direct Quick Connect is designed with privacy in mind. We collect minimal information necessary to provide our services:
 
 - Phone numbers you enter (temporarily stored only on your device)
 - Country codes you select (temporarily stored only on your device)
@@ -67,7 +67,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 ## 8. Permissions
 
-WA Quick Connect requires the following permissions:
+Direct Quick Connect requires the following permissions:
 
 - **Internet access**: Required to open WhatsApp web links and display advertisements
 - **Location (optional)**: Used only for detecting your country code to provide a better user experience
